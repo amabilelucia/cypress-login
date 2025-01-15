@@ -1,0 +1,15 @@
+C:\Users\amabi\Documents\projeto teste\LoginProject\bin\Debug\net9.0\LoginProject.exe
+C:\Users\amabi\Documents\projeto teste\LoginProject\bin\Debug\net9.0\LoginProject.deps.json
+C:\Users\amabi\Documents\projeto teste\LoginProject\bin\Debug\net9.0\LoginProject.runtimeconfig.json
+C:\Users\amabi\Documents\projeto teste\LoginProject\bin\Debug\net9.0\LoginProject.dll
+C:\Users\amabi\Documents\projeto teste\LoginProject\bin\Debug\net9.0\LoginProject.pdb
+C:\Users\amabi\Documents\projeto teste\LoginProject\obj\Debug\net9.0\LoginProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amabi\Documents\projeto teste\LoginProject\obj\Debug\net9.0\LoginProject.AssemblyInfoInputs.cache
+C:\Users\amabi\Documents\projeto teste\LoginProject\obj\Debug\net9.0\LoginProject.AssemblyInfo.cs
+C:\Users\amabi\Documents\projeto teste\LoginProject\obj\Debug\net9.0\LoginProject.csproj.CoreCompileInputs.cache
+C:\Users\amabi\Documents\projeto teste\LoginProject\obj\Debug\net9.0\LoginProject.sourcelink.json
+C:\Users\amabi\Documents\projeto teste\LoginProject\obj\Debug\net9.0\LoginProject.dll
+C:\Users\amabi\Documents\projeto teste\LoginProject\obj\Debug\net9.0\refint\LoginProject.dll
+C:\Users\amabi\Documents\projeto teste\LoginProject\obj\Debug\net9.0\LoginProject.pdb
+C:\Users\amabi\Documents\projeto teste\LoginProject\obj\Debug\net9.0\LoginProject.genruntimeconfig.cache
+C:\Users\amabi\Documents\projeto teste\LoginProject\obj\Debug\net9.0\ref\LoginProject.dll
