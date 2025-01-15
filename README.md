@@ -28,9 +28,9 @@ npm install cypress --save-dev
 
 ## Como Rodar os Testes
 
-Execute o seuginte comando no terminal:
+Execute o seguinte comando no terminal:
 ```bash
 dotnet run --project LoginProject
 ```
 
-O resultado dos testes será exibido diretamnete no terminal
+O resultado dos testes será exibido diretamnete no terminal.
