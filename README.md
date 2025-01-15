@@ -19,7 +19,7 @@ dotnet --version
 ### 2. Instalar o Node.js e o Cypress
 O Cypress é uma ferramenta baseada em Node.js, então você precisará do Node.js instalado. Caso ainda não tenha, baixe e instale o Node.js [aqui](https://nodejs.org/pt).
 
-Após instalar o Node.js, instale o Cypress localmente no projeto executando o seguinte comando:
+Após instalar o Node.js, instale o Cypress localmente no projeto executando os seguintes comandos:
 
 ```bash
 npm init -y
@@ -28,9 +28,10 @@ npm install cypress --save-dev
 
 ## Como Rodar os Testes
 
-Execute o seguinte comando no terminal:
+Execute os seguintes comandos no terminal:
 ```bash
-dotnet run --project LoginProject
+cd ./LoginProject
+dotnet run
 ```
 
 O resultado dos testes será exibido diretamnete no terminal.
